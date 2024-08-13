@@ -13,12 +13,3 @@ How to run the Blood Bank & Donor Management System Using PHP and MySQL
 6. Import bbdms.sql file(given inside the zip package in the SQL file folder)
 
 7. Run the script http://localhost/bbdms
-
-**************************Admin Credential***********************
-Username: admin
-Password: Test@123
-
-**************************Donor Credential**********************
-Username: amitk@gmail.com
-Password: Test@123
-Or Register a new user.
